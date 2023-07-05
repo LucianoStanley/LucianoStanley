@@ -18,7 +18,7 @@
  
 <div> 
   <a href="https://www.instagram.com/lucianostanley/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://accounts.google.com/SignOutOptions?hl=pt-BR&continue=https://mail.google.com&service=mail&ec=GBRAFw"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "lucianostanley031@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/LucianoStanley/LucianoStanley/blob/output/github-contribution-grid-snake.svg)
 
